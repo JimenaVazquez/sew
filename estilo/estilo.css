@@ -1,0 +1,74 @@
+/* **************************************************/
+/*             LaVuelta2026                         */
+/*          Estilos generales                       */
+/* **************************************************/
+/*    DATOS ESTUDIANTE                              */
+/* -------------------------------------------------*/
+/*  Nombre y Apellidos: Jimena Vázquez Suárez       */
+/*  Correo electrónico (uniovi): uo301668@uniovi.es */
+/*  Grupo de laboratorio: L-01                      */
+/* **************************************************/
+
+/* Gama cromática
+Color principal: #faeed1
+ - Con color secundario - Contraste de 9.25:1
+ - Con color negro - Contraste de 18.21:1
+Color secundario: #82030f
+ - Con color principal - Contraste de 9.25:1
+ - Con color blanco - Contraste de 10.66:1
+Color blanco: #ffffff
+Color negro: #000000
+*/
+/* Especificidad = 010 */
+:root {
+    --color-principal: #faeed1;
+    --color-secundario: #82030f;
+    --color-blanco: #ffffff;
+    --color-negro: #000000;
+}
+
+/* Especificidad = 001 */
+body {
+    font-family: 'Futura', 'Trebuchet MS', sans-serif;
+    background-color: var(--color-blanco);
+    color: var(--color-negro);
+}
+
+/* Especificidad = 001, 001 */
+header, footer {
+    background-color: var(--color-principal);
+    color: var(--color-secundario);
+}
+
+/* Especificidad = 002, 002 */
+header a, footer a {
+    color: var(--color-negro); /* ADVERTENCIA: color de fondo heredado de header y footer --color-principal */
+    text-decoration-line: none;
+}
+
+/* Especificidad = 012 */
+header a[aria-current] {
+    color: var(--color-secundario); /* ADVERTENCIA: color de fondo heredado de header y footer --color-principal */
+}
+
+/* Especificidad = 002 */
+nav ol {
+    font-size: 0.85em;
+    list-style-type: none;
+}
+
+/* Especificidad = 003 */
+nav ol li {
+    display: inline;
+}
+
+/* Especificidad = 013 */
+nav ol li:last-child {
+    font-weight: bold;
+}
+
+/* Especificidad = 004, 005 */
+main section:has(table) table, main section:has(table) thead th {
+    border: 1px var(--color-secundario) solid;
+    text-align: left;
+}

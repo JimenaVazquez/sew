@@ -1,0 +1,157 @@
+/* **************************************************/
+/*           LaVuelta2026                           */
+/*          Estilos layout                          */
+/* **************************************************/
+/*    DATOS ESTUDIANTE                              */
+/* -------------------------------------------------*/
+/*  Nombre y Apellidos: Jimena Vázquez Suárez       */
+/*  Correo electrónico (uniovi): uo301668@uniovi.es */
+/*  Grupo de laboratorio: L-01                      */
+/* **************************************************/
+
+/* Especificidad = 003 */
+main section:has(picture) {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+/* Especificidad = 004 */
+main section:has(picture) h3{
+    flex-basis: 100%;
+}
+
+/* Especificidad = 004 */
+main section:has(picture) picture {
+    order: 1;
+}
+
+/* Especificidad = 004 */
+main section:has(picture) ul {
+    order: 2;
+    list-style: none;
+}
+
+/* Especificidad = 015, 015 */
+main section:has(picture) ul li:first-child, main section:has(picture) ul li:nth-child(3) {
+    font-size: 1.15em;
+}
+
+/* Especificidad = 015, 015 */
+main section:has(picture) ul li:first-child, main section:has(picture) ul li:nth-child(4) {
+    font-weight: bold;
+}
+
+/* Especificidad = 004 */
+main section:has(video, audio) {
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+}
+
+/* Especificidad = 003 */
+main section:has(article) {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    justify-items: center;
+    align-items: center;
+    gap: 1em;
+}
+
+/* Especificidad = 004 */
+main section:has(article) h3 {
+    grid-column: 1 / -1;
+}
+
+/* Especificidad = 001 */
+body {
+    margin: 0;
+    display: grid;
+    min-height: 100vh;
+    grid-template-areas: 
+        "cabecera"
+        "migas"
+        "contenido"
+        "pie";
+    grid-template-rows: auto auto 1fr auto;
+}
+
+/* Especificidad = 002 */
+body > header {
+   grid-area: cabecera;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+/* Especificidad = 002 */
+body > nav {
+   grid-area: migas;
+}
+
+/* Especificidad = 002 */
+body > main {
+    grid-area: contenido;
+}
+
+/* Especificidad = 002 */
+body > footer {
+   grid-area: pie;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+/* ---------- Media Queries ---------- */
+/* Para tablet */
+@media (max-width: 1024px) {
+    /* Especificidad = 003 */
+    main section:has(article) {
+        grid-template-columns: repeat(2, 1fr); /* ADVERTENCIA: redefinición de la propiedad con valor original: repeat(4, 1fr) */
+    }
+
+    /* Especificidad = 001 */
+    body {
+        grid-template-areas:
+            "cabecera"
+            "contenido"
+            "pie"; /* ADVERTENCIA: redefinición de la propiedad con valor original: "cabecera" "migas" "contenido" "pie" */
+        grid-template-rows: auto 1fr auto; /* ADVERTENCIA: redefinición de la propiedad con valor original: auto auto 1fr auto */
+    }
+
+    /* Especificidad = 002 */
+    body > header {
+        flex-direction: column;
+    }
+
+    /* Especificidad = 003 */
+    body > header nav {
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+    }
+
+    /* Especificidad = 002 */
+    body > nav {
+        display: none;
+    }
+}
+
+/* Para móvil */
+@media (max-width: 768px) {
+    /* Especificidad = 003 */
+    main section:has(article) {
+        grid-template-columns: repeat(1, 1fr); /* ADVERTENCIA: redefinición de la propiedad con valor original: repeat(2, 1fr) */
+    }
+
+    /* Especificidad = 002 */
+    body > header {
+        flex-direction: column; /* ADVERTENCIA: redefinición de la propiedad con valor original: row (por defecto) */
+    }
+
+    /* Especificidad = 003 */
+    body > header nav {
+        flex-direction: column;
+        align-items: center;
+    }
+}
