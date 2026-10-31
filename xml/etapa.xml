@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE etapas SYSTEM "etapa.dtd">
+
+<etapas>
+
+<etapa longitud="104.8" tiempoGanador="PT2H40M35S" velocidadMediaGanador="39" desnivel="2890">
+    <nombre>Andorra la Vella a Andorra la Vella</nombre>
+    <número>4</número>
+    <fecha>2026-08-25</fecha>
+
+    <salida longitud="1.552684" latitud="42.513526" altitud="1150">Andorra la Vella</salida>
+    <meta longitud="1.526117" latitud="42.505088" altitud="1011">Andorra la Vella (centro)</meta>
+    <tipo>Montaña</tipo>
+
+    <referencias>
+        <referencia>"https://www.lavuelta.es/es/etapa-4"</referencia>
+        <referencia>"https://www.olympics.com/es/noticias/vuelta-espana-2026-cuarta-etapa-25-agosto-recorrido-andorra-puertos-como-ver"</referencia>
+        <referencia>"https://www.esciclismo.com/actualidad/carretera/92679.html"</referencia>
+    </referencias>
+    
+    <media>
+
+        <fotografías>
+            <fotografía>carrera.png</fotografía>
+            <fotografía>andorra.png</fotografía>
+            <fotografía>ganador.png</fotografía>
+        </fotografías>
+
+        <vídeos>
+            <vídeo>resumen.mp4</vídeo>
+        </vídeos>
+
+        <podcasts>
+            <podcast>analisis.mp3</podcast>
+        </podcasts>
+
+    </media>
+    
+    <hitos>
+
+        <hito longitud="1.719381" latitud="42.540176" altitud="2398" distancia="25.2" bonificación="no">
+            <identificación>Port de Envalira</identificación>
+            <tipoHito>1ª categoría</tipoHito>
+        </hito>
+
+        <hito longitud="1.547910" latitud="42.527751" altitud="1788" distancia="59.3" bonificación="no">
+            <identificación>Collada de Beixalis</identificación>
+            <tipoHito>1ª categoría</tipoHito>
+        </hito>
+
+        <hito longitud="1.532713" latitud="42.555576" altitud="1289" distancia="68.8" bonificación="no">
+            <identificación>Ordino</identificación>
+            <tipoHito>Esprint intermedio</tipoHito>
+        </hito>
+
+        <hito longitud="1.572304" latitud="42.556078" altitud="1971" distancia="78.7" bonificación="no">
+            <identificación>Coll d'Ordino</identificación>
+            <tipoHito>1ª categoría</tipoHito>
+        </hito>
+
+        <hito longitud="1.531641" latitud="42.500699" altitud="1342" distancia="100" bonificación="sí">
+            <identificación>Alto de la Comella</identificación>
+            <tipoHito>3ª categoría</tipoHito>
+        </hito>
+
+    </hitos>
+
+    <puntos>
+
+        <punto longitud="1.566504" latitud="42.525979" altitud="1212" distancia="1.9">
+            <identificación>1-A - 1</identificación>
+        </punto>
+
+        <punto longitud="1.583578" latitud="42.532106" altitud="1313" distancia="3.6">
+            <identificación>1-B - 2</identificación>
+        </punto>
+ 
+        <punto longitud="1.591532" latitud="42.538074" altitud="1363" distancia="4.6">
+            <identificación>1-C - 3</identificación>
+        </punto>
+ 
+        <punto longitud="1.591096" latitud="42.563844" altitud="1520" distancia="7.6">
+            <identificación>1-D - 4</identificación>
+        </punto>
+
+        <punto longitud="1.594329" latitud="42.566109" altitud="1524" distancia="8.0">
+            <identificación>1-E - 5</identificación>
+        </punto>
+
+        <punto longitud="1.605146" latitud="42.570374" altitud="1541" distancia="9.2">
+            <identificación>1-F - 6</identificación>
+        </punto>
+
+        <punto longitud="1.648315" latitud="42.580023" altitud="1675" distancia="13.1">
+            <identificación>1-G - 7</identificación>
+        </punto>
+
+        <punto longitud="1.664185" latitud="42.583861" altitud="1751" distancia="14.8">
+            <identificación>1-H - 8</identificación>
+        </punto>
+
+        <punto longitud="1.664389" latitud="42.577422" altitud="1807" distancia="15.6">
+            <identificación>1-I - 9</identificación>
+        </punto>
+
+        <punto longitud="1.696388" latitud="42.550918" altitud="2038" distancia="19.8">
+            <identificación>1-J - 10</identificación>
+        </punto>
+ 
+        <punto longitud="1.705109" latitud="42.542204" altitud="2141" distancia="21.4">
+            <identificación>C1-A - 11</identificación>
+        </punto>
+
+        <punto longitud="1.703902" latitud="42.549881" altitud="2208" distancia="22.3">
+            <identificación>C1-B - 12</identificación>
+        </punto>
+
+        <punto longitud="1.711819" latitud="42.540644" altitud="2306" distancia="23.6">
+            <identificación>C1-C - 13</identificación>
+        </punto>
+
+        <punto longitud="1.719262" latitud="42.537831" altitud="2374" distancia="25.7">
+            <identificación>C1-D - 14</identificación>
+        </punto>
+
+        <punto longitud="1.727605" latitud="42.543507" altitud="2260" distancia="27.3">
+            <identificación>C1-E - 15</identificación>
+        </punto>
+
+        <punto longitud="1.726642" latitud="42.537540" altitud="2216" distancia="28.0">
+            <identificación>C1-F - 16</identificación>
+        </punto>
+
+        <punto longitud="1.732191" latitud="42.548836" altitud="2109" distancia="29.5">
+            <identificación>C1-G - 17</identificación>
+        </punto>
+
+        <punto longitud="1.732325" latitud="42.544127" altitud="2095" distancia="30.0">
+            <identificación>C1-H - 18</identificación>
+        </punto>
+
+        <punto longitud="1.735644" latitud="42.543407" altitud="2085" distancia="30.3">
+            <identificación>C1-I - 19</identificación>
+        </punto>
+
+        <punto longitud="1.737797" latitud="42.548496" altitud="2052" distancia="30.9">
+            <identificación>C1-J - 20</identificación>
+        </punto>
+
+        <punto longitud="1.731586" latitud="42.546105" altitud="2051" distancia="31.6">
+            <identificación>2-A - 21</identificación>
+        </punto>
+
+        <punto longitud="1.702324" latitud="42.545674" altitud="2047" distancia="34.1">
+            <identificación>2-B - 22</identificación>
+        </punto>
+
+        <punto longitud="1.674646" latitud="42.573395" altitud="1851" distancia="38.0">
+            <identificación>2-C - 23</identificación>
+        </punto>
+
+        <punto longitud="1.666365" latitud="42.576994" altitud="1818" distancia="38.8">
+            <identificación>2-D - 24</identificación>
+        </punto>
+
+        <punto longitud="1.664476" latitud="42.583705" altitud="1754" distancia="39.8">
+            <identificación>2-E - 25</identificación>
+        </punto>
+
+        <punto longitud="1.652999" latitud="42.578039" altitud="1701" distancia="41.1">
+            <identificación>2-F - 26</identificación>
+        </punto>
+
+        <punto longitud="1.601239" latitud="42.567333" altitud="1528" distancia="46.0">
+            <identificación>2-K - 99</identificación>
+        </punto>
+
+        <punto longitud="1.588731" latitud="42.553085" altitud="1407" distancia="48.2">
+            <identificación>2-G - 27</identificación>
+        </punto>
+
+        <punto longitud="1.591498" latitud="42.538151" altitud="1358" distancia="50.0">
+            <identificación>2-H - 28</identificación>
+        </punto>
+
+        <punto longitud="1.579955" latitud="42.531802" altitud="1292" distancia="51.3">
+            <identificación>2-I - 29</identificación>
+        </punto>
+
+        <punto longitud="1.570873" latitud="42.529748" altitud="1233" distancia="52.2">
+            <identificación>2-J - 30</identificación>
+        </punto>
+
+        <punto longitud="1.571949" latitud="42.534090" altitud="1247" distancia="52.9">
+            <identificación>C2-A - 31</identificación>
+        </punto>
+
+        <punto longitud="1.567226" latitud="42.531458" altitud="1303" distancia="53.7">
+            <identificación>C2-B - 32</identificación>
+        </punto>
+
+        <punto longitud="1.561607" latitud="42.533327" altitud="1432" distancia="54.6">
+            <identificación>C2-C - 33</identificación>
+        </punto>
+
+        <punto longitud="1.558434" latitud="42.530141" altitud="1553" distancia="55.9">
+            <identificación>C2-D - 34</identificación>
+        </punto>
+
+        <punto longitud="1.554903" latitud="42.532950" altitud="1654" distancia="57.4">
+            <identificación>C2-E - 35</identificación>
+        </punto>
+
+        <punto longitud="1.554903" latitud="42.532950" altitud="1654" distancia="57.4">
+            <identificación>C2-F - 36</identificación>
+        </punto>
+
+        <punto longitud="1.551967" latitud="42.527395" altitud="1704" distancia="58.2">
+            <identificación>C2-G - 37</identificación>
+        </punto>
+
+        <punto longitud="1.550290" latitud="42.530575" altitud="1751" distancia="58.7">
+            <identificación>C2-H - 38</identificación>
+        </punto>
+
+        <punto longitud="1.545896" latitud="42.529027" altitud="1772" distancia="59.5">
+            <identificación>C2-I - 39</identificación>
+        </punto>
+
+        <punto longitud="1.549148" latitud="42.537919" altitud="1734" distancia="60.7">
+            <identificación>C2-J - 40</identificación>
+        </punto>
+
+        <punto longitud="1.542759" latitud="42.536069" altitud="1675" distancia="61.3">
+            <identificación>C2-K - 41</identificación>
+        </punto>
+
+        <punto longitud="1.541363" latitud="42.532491" altitud="1658" distancia="61.7">
+            <identificación>C2-L - 42</identificación>
+        </punto>
+
+        <punto longitud="1.542380" latitud="42.538382" altitud="1593" distancia="62.5">
+            <identificación>C2-M - 43</identificación>
+        </punto>
+
+        <punto longitud="1.530118" latitud="42.533940" altitud="1451" distancia="64.1">
+            <identificación>C2-N - 44</identificación>
+        </punto>
+
+        <punto longitud="1.532070" latitud="42.531814" altitud="1428" distancia="64.4">
+            <identificación>C2-O - 45</identificación>
+        </punto>
+
+        <punto longitud="1.527997" latitud="42.534342" altitud="1390" distancia="64.8">
+            <identificación>C2-P - 46</identificación>
+        </punto>
+
+        <punto longitud="1.530229" latitud="42.538266" altitud="1314" distancia="66.0">
+            <identificación>C2-Q - 47</identificación>
+        </punto>
+
+        <punto longitud="1.525511" latitud="42.538705" altitud="1297" distancia="66.5">
+            <identificación>C2-R - 48</identificación>
+        </punto>
+
+        <punto longitud="1.525511" latitud="42.538705" altitud="1297" distancia="66.9">
+            <identificación>3-A - 49</identificación>
+        </punto>
+
+        <punto longitud="1.526571" latitud="42.551424" altitud="1260" distancia="68.0">
+            <identificación>3-B - 50</identificación>
+        </punto>
+
+        <punto longitud="1.531532" latitud="42.555685" altitud="1283" distancia="68.7">
+            <identificación>3-C - 51</identificación>
+        </punto>
+
+        <punto longitud="1.533759" latitud="42.553954" altitud="1307" distancia="69.2">
+            <identificación>3-D - 52</identificación>
+        </punto>
+
+        <punto longitud="1.528450" latitud="42.550693" altitud="1361" distancia="69.8">
+            <identificación>3-E - 53</identificación>
+        </punto>
+
+        <punto longitud="1.539597" latitud="42.552185" altitud="1426" distancia="70.8">
+            <identificación>3-F - 54</identificación>
+        </punto>
+
+        <punto longitud="1.540893" latitud="42.555182" altitud="1438" distancia="71.2">
+            <identificación>3-G - 55</identificación>
+        </punto>
+
+        <punto longitud="1.549349" latitud="42.557757" altitud="1528" distancia="72.2">
+            <identificación>3-H - 56</identificación>
+        </punto>
+
+        <punto longitud="1.540869" latitud="42.549379" altitud="1644" distancia="73.6">
+            <identificación>3-I - 57</identificación>
+        </punto>
+
+        <punto longitud="1.562023" latitud="42.555802" altitud="1789" distancia="75.8">
+            <identificación>3-J - 58</identificación>
+        </punto>
+
+        <punto longitud="1.551998" latitud="42.552196" altitud="1848" distancia="76.8">
+            <identificación>3-K - 59</identificación>
+        </punto>
+
+        <punto longitud="1.563062" latitud="42.551937" altitud="1930" distancia="77.8">
+            <identificación>3-L - 60</identificación>
+        </punto>
+
+        <punto longitud="1.575780" latitud="42.557756" altitud="1950" distancia="79.0">
+            <identificación>3-M - 61</identificación>
+        </punto>
+
+        <punto longitud="1.577628" latitud="42.566342" altitud="1923" distancia="80.2">
+            <identificación>3-N - 62</identificación>
+        </punto>
+
+        <punto longitud="1.584799" latitud="42.567265" altitud="1927" distancia="80.8">
+            <identificación>3-O - 63</identificación>
+        </punto>
+
+        <punto longitud="1.587768" latitud="42.569356" altitud="1938" distancia="81.1">
+            <identificación>C3-A - 64</identificación>
+        </punto>
+
+        <punto longitud="1.586503" latitud="42.573638" altitud="1911" distancia="81.6">
+            <identificación>C3-B - 65</identificación>
+        </punto>
+
+        <punto longitud="1.591297" latitud="42.568843" altitud="1874" distancia="82.3">
+            <identificación>C3-C - 66</identificación>
+        </punto>
+
+        <punto longitud="1.589718" latitud="42.570073" altitud="1864" distancia="82.5">
+            <identificación>C3-D - 67</identificación>
+        </punto>
+
+        <punto longitud="1.589718" latitud="42.570073" altitud="1828" distancia="82.9">
+            <identificación>C3-D - 67</identificación>
+        </punto>
+
+        <punto longitud="1.602377" latitud="42.572561" altitud="1779" distancia="83.9">
+            <identificación>C3-E - 68</identificación>
+        </punto>
+
+        <punto longitud="1.594059" latitud="42.571019" altitud="1730" distancia="84.6">
+            <identificación>C3-F - 69</identificación>
+        </punto>
+
+        <punto longitud="1.600555" latitud="42.570557" altitud="1686" distancia="85.3">
+            <identificación>C3-G - 70</identificación>
+        </punto>
+
+        <punto longitud="1.597439" latitud="42.570690" altitud="1661" distancia="85.5">
+            <identificación>C3-H - 71</identificación>
+        </punto>
+
+        <punto longitud="1.600450" latitud="42.568368" altitud="1619" distancia="86.0">
+            <identificación>C3-I - 72</identificación>
+        </punto>
+
+        <punto longitud="1.597602" latitud="42.569593" altitud="1612" distancia="86.3">
+            <identificación>C3-J - 73</identificación>
+        </punto>
+
+        <punto longitud="1.597602" latitud="42.569593" altitud="1612" distancia="86.3">
+            <identificación>C3-K - 74</identificación>
+        </punto>
+
+        <punto longitud="1.591579" latitud="42.564947" altitud="1557" distancia="87">
+            <identificación>C3-L - 75</identificación>
+        </punto>
+
+        <punto longitud="1.596578" latitud="42.565961" altitud="1525" distancia="87.6">
+            <identificación>C3-M - 76</identificación>
+        </punto>
+
+        <punto longitud="1.588700" latitud="42.553168" altitud="1408" distancia="89.4">
+            <identificación>4-A - 76</identificación>
+        </punto>
+
+        <punto longitud="1.591560" latitud="42.538229" altitud="1358" distancia="91.2">
+            <identificación>4-B - 77</identificación>
+        </punto>
+
+        <punto longitud="1.583008" latitud="42.531816" altitud="1315" distancia="92.3">
+            <identificación>4-C - 78</identificación>
+        </punto>
+
+        <punto longitud="1.573666" latitud="42.530515" altitud="1257" distancia="93.1">
+            <identificación>4-D - 79</identificación>
+        </punto>
+
+        <punto longitud="1.562570" latitud="42.524396" altitud="1191" distancia="94.3">
+            <identificación>4-E - 80</identificación>
+        </punto>
+
+        <punto longitud="1.548681" latitud="42.511025" altitud="1128" distancia="96.2">
+            <identificación>4-F - 81</identificación>
+        </punto>
+
+        <punto longitud="1.549421" latitud="42.506545" altitud="1171" distancia="96.8">
+            <identificación>4-G - 82</identificación>
+        </punto>
+
+        <punto longitud="1.549298" latitud="42.507900" altitud="1179" distancia="96.9">
+            <identificación>4-H - 83</identificación>
+        </punto>
+
+        <punto longitud="1.552198" latitud="42.504238" altitud="1233" distancia="97.4">
+            <identificación>4-I - 84</identificación>
+        </punto>
+
+        <punto longitud="1.543717" latitud="42.506065" altitud="1242" distancia="98.2">
+            <identificación>4-J - 85</identificación>
+        </punto>
+
+        <punto longitud="1.533200" latitud="42.501700" altitud="1268" distancia="99.3">
+            <identificación>C4-A - 86</identificación>
+        </punto>
+
+        <punto longitud="1.534912" latitud="42.501705" altitud="1325" distancia="99.8">
+            <identificación>C4-B - 87</identificación>
+        </punto>
+
+        <punto longitud="1.530640" latitud="42.499190" altitud="1330" distancia="100.3">
+            <identificación>C4-C - 88</identificación>
+        </punto>
+
+        <punto longitud="1.528365" latitud="42.502083" altitud="1257" distancia="101.3">
+            <identificación>C4-D - 89</identificación>
+        </punto>
+
+        <punto longitud="1.525334" latitud="42.500360" altitud="1236" distancia="101.7">
+            <identificación>C4-E - 90</identificación>
+        </punto>
+
+        <punto longitud="1.526586" latitud="42.502081" altitud="1221" distancia="102.0">
+            <identificación>C4-F - 91</identificación>
+        </punto>
+
+        <punto longitud="1.521448" latitud="42.496738" altitud="1164" distancia="102.9">
+            <identificación>5-A - 92</identificación>
+        </punto>
+
+        <punto longitud="1.513095" latitud="42.497024" altitud="1098" distancia="103.6">
+            <identificación>5-B - 93</identificación>
+        </punto>
+
+        <punto longitud="1.517086" latitud="42.498685" altitud="1072" distancia="104.0">
+            <identificación>5-C - 94</identificación>
+        </punto>
+
+        <punto longitud="1.517867" latitud="42.500993" altitud="1042" distancia="104.2">
+            <identificación>5-D - 95</identificación>
+        </punto>
+
+        <punto longitud="1.519876" latitud="42.501456" altitud="1025" distancia="104.3">
+            <identificación>5-E - 96</identificación>
+        </punto>
+
+        <punto longitud="1.521460" latitud="42.504172" altitud="1000" distancia="104.6">
+            <identificación>5-F - 97</identificación>
+        </punto>
+
+        <punto longitud="1.523968" latitud="42.504809" altitud="1009" distancia="104.7">
+            <identificación>5-G - 98</identificación>
+        </punto>
+
+    </puntos>
+
+    <clasificaciones>
+        <clasificación>
+            <título>Clasificación de la etapa</título>
+            <primero>Tadej Pogačar</primero>
+            <segundo tiempo="PT0H2M39S">Jarno Widar</segundo>
+            <tercero tiempo="PT0H2M39S">Felix Gall</tercero>
+        </clasificación>
+
+        <clasificación>
+            <título>Clasificación general</título>
+            <primero>Tadej Pogačar</primero>
+            <segundo tiempo="PT0H3M21S">Primož Roglič</segundo>
+            <tercero tiempo="PT0H3M32S">Enric Mas</tercero>
+        </clasificación>
+
+        <clasificación>
+            <título>Clasificación por equipos</título>
+            <primero>UAE Team Emirates XRG</primero>
+            <segundo tiempo="PT0H6M20S">Decathlon CMA CGM Team</segundo>
+            <tercero tiempo="PT0H10M26S">Team Visma | Lease a Bike</tercero>
+        </clasificación>
+    </clasificaciones>
+
+</etapa>
+
+</etapas>

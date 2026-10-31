@@ -1,0 +1,1636 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Salida</name>
+      <Style>
+        <IconStyle>
+          <color>#ff0000ff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff0000ff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.552684,42.513526,1150</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Meta</name>
+      <Style>
+        <IconStyle>
+          <color>#ff0000ff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff0000ff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.526117,42.505088,1011</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.566504,42.525979,1212</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.583578,42.532106,1313</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.591532,42.538074,1363</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.591096,42.563844,1520</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.594329,42.566109,1524</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.605146,42.570374,1541</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.648315,42.580023,1675</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.664185,42.583861,1751</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.664389,42.577422,1807</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.696388,42.550918,2038</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.705109,42.542204,2141</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.703902,42.549881,2208</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.711819,42.540644,2306</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.719262,42.537831,2374</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.727605,42.543507,2260</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.726642,42.537540,2216</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.732191,42.548836,2109</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.732325,42.544127,2095</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.735644,42.543407,2085</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.737797,42.548496,2052</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.731586,42.546105,2051</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.702324,42.545674,2047</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.674646,42.573395,1851</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.666365,42.576994,1818</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.664476,42.583705,1754</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.652999,42.578039,1701</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.601239,42.567333,1528</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.588731,42.553085,1407</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.591498,42.538151,1358</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.579955,42.531802,1292</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.570873,42.529748,1233</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.571949,42.534090,1247</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.567226,42.531458,1303</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.561607,42.533327,1432</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.558434,42.530141,1553</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.554903,42.532950,1654</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.554903,42.532950,1654</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.551967,42.527395,1704</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.550290,42.530575,1751</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.545896,42.529027,1772</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.549148,42.537919,1734</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.542759,42.536069,1675</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.541363,42.532491,1658</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.542380,42.538382,1593</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.530118,42.533940,1451</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.532070,42.531814,1428</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.527997,42.534342,1390</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.530229,42.538266,1314</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.525511,42.538705,1297</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.525511,42.538705,1297</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.526571,42.551424,1260</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.531532,42.555685,1283</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.533759,42.553954,1307</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.528450,42.550693,1361</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.539597,42.552185,1426</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.540893,42.555182,1438</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.549349,42.557757,1528</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.540869,42.549379,1644</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.562023,42.555802,1789</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.551998,42.552196,1848</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.563062,42.551937,1930</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.575780,42.557756,1950</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.577628,42.566342,1923</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.584799,42.567265,1927</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.587768,42.569356,1938</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.586503,42.573638,1911</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.591297,42.568843,1874</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.589718,42.570073,1864</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.589718,42.570073,1828</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.602377,42.572561,1779</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.594059,42.571019,1730</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.600555,42.570557,1686</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.597439,42.570690,1661</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.600450,42.568368,1619</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.597602,42.569593,1612</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.597602,42.569593,1612</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.591579,42.564947,1557</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.596578,42.565961,1525</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.588700,42.553168,1408</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.591560,42.538229,1358</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.583008,42.531816,1315</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.573666,42.530515,1257</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.562570,42.524396,1191</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.548681,42.511025,1128</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.549421,42.506545,1171</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.549298,42.507900,1179</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.552198,42.504238,1233</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.543717,42.506065,1242</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.533200,42.501700,1268</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.534912,42.501705,1325</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.530640,42.499190,1330</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.528365,42.502083,1257</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.525334,42.500360,1236</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.526586,42.502081,1221</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.521448,42.496738,1164</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.513095,42.497024,1098</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.517086,42.498685,1072</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.517867,42.500993,1042</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.519876,42.501456,1025</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.521460,42.504172,1000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name />
+      <Style>
+        <IconStyle>
+          <color>#ff00ffff</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ffff</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.523968,42.504809,1009</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Port de Envalira</name>
+      <Style>
+        <IconStyle>
+          <color>#ff00ff00</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ff00</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.719381,42.540176,2398</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Collada de Beixalis</name>
+      <Style>
+        <IconStyle>
+          <color>#ff00ff00</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ff00</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.547910,42.527751,1788</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ordino</name>
+      <Style>
+        <IconStyle>
+          <color>#ffff0000</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ffff0000</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.532713,42.555576,1289</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Coll d'Ordino</name>
+      <Style>
+        <IconStyle>
+          <color>#ff00ff00</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ff00</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.572304,42.556078,1971</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alto de la Comella</name>
+      <Style>
+        <IconStyle>
+          <color>#ff00ff00</color>
+        </IconStyle>
+        <LabelStyle>
+          <color>#ff00ff00</color>
+        </LabelStyle>
+      </Style>
+      <Point>
+        <coordinates>1.531641,42.500699,1342</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>1.552684,42.513526,1150
+1.566504,42.525979,1212
+1.583578,42.532106,1313
+1.591532,42.538074,1363
+1.591096,42.563844,1520
+1.594329,42.566109,1524
+1.605146,42.570374,1541
+1.648315,42.580023,1675
+1.664185,42.583861,1751
+1.664389,42.577422,1807
+1.696388,42.550918,2038
+1.705109,42.542204,2141
+1.703902,42.549881,2208
+1.711819,42.540644,2306
+1.719381,42.540176,2398
+1.719262,42.537831,2374
+1.727605,42.543507,2260
+1.726642,42.537540,2216
+1.732191,42.548836,2109
+1.732325,42.544127,2095
+1.735644,42.543407,2085
+1.737797,42.548496,2052
+1.731586,42.546105,2051
+1.702324,42.545674,2047
+1.674646,42.573395,1851
+1.666365,42.576994,1818
+1.664476,42.583705,1754
+1.652999,42.578039,1701
+1.601239,42.567333,1528
+1.588731,42.553085,1407
+1.591498,42.538151,1358
+1.579955,42.531802,1292
+1.570873,42.529748,1233
+1.571949,42.534090,1247
+1.567226,42.531458,1303
+1.561607,42.533327,1432
+1.558434,42.530141,1553
+1.554903,42.532950,1654
+1.554903,42.532950,1654
+1.551967,42.527395,1704
+1.550290,42.530575,1751
+1.547910,42.527751,1788
+1.545896,42.529027,1772
+1.549148,42.537919,1734
+1.542759,42.536069,1675
+1.541363,42.532491,1658
+1.542380,42.538382,1593
+1.530118,42.533940,1451
+1.532070,42.531814,1428
+1.527997,42.534342,1390
+1.530229,42.538266,1314
+1.525511,42.538705,1297
+1.525511,42.538705,1297
+1.526571,42.551424,1260
+1.531532,42.555685,1283
+1.532713,42.555576,1289
+1.533759,42.553954,1307
+1.528450,42.550693,1361
+1.539597,42.552185,1426
+1.540893,42.555182,1438
+1.549349,42.557757,1528
+1.540869,42.549379,1644
+1.562023,42.555802,1789
+1.551998,42.552196,1848
+1.563062,42.551937,1930
+1.572304,42.556078,1971
+1.575780,42.557756,1950
+1.577628,42.566342,1923
+1.584799,42.567265,1927
+1.587768,42.569356,1938
+1.586503,42.573638,1911
+1.591297,42.568843,1874
+1.589718,42.570073,1864
+1.589718,42.570073,1828
+1.602377,42.572561,1779
+1.594059,42.571019,1730
+1.600555,42.570557,1686
+1.597439,42.570690,1661
+1.600450,42.568368,1619
+1.597602,42.569593,1612
+1.597602,42.569593,1612
+1.591579,42.564947,1557
+1.596578,42.565961,1525
+1.588700,42.553168,1408
+1.591560,42.538229,1358
+1.583008,42.531816,1315
+1.573666,42.530515,1257
+1.562570,42.524396,1191
+1.548681,42.511025,1128
+1.549421,42.506545,1171
+1.549298,42.507900,1179
+1.552198,42.504238,1233
+1.543717,42.506065,1242
+1.533200,42.501700,1268
+1.534912,42.501705,1325
+1.531641,42.500699,1342
+1.530640,42.499190,1330
+1.528365,42.502083,1257
+1.525334,42.500360,1236
+1.526586,42.502081,1221
+1.521448,42.496738,1164
+1.513095,42.497024,1098
+1.517086,42.498685,1072
+1.517867,42.500993,1042
+1.519876,42.501456,1025
+1.521460,42.504172,1000
+1.523968,42.504809,1009
+1.526117,42.505088,1011</coordinates>
+      </LineString>
+      <Style>
+        <LineStyle>
+          <color>#ff0000ff</color>
+          <width>5</width>
+        </LineStyle>
+      </Style>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,61 @@
+<!ELEMENT etapas (etapa+)>
+<!ELEMENT etapa (nombre, número, fecha, salida, meta, tipo, referencias, media, hitos, puntos, clasificaciones)>
+<!ELEMENT referencias (referencia+)>
+<!ELEMENT media (fotografías, vídeos, podcasts)>
+<!ELEMENT fotografías (fotografía+)>
+<!ELEMENT vídeos (vídeo+)>
+<!ELEMENT podcasts (podcast+)>
+<!ELEMENT hitos (hito+)>
+<!ELEMENT puntos (punto+)>
+<!ELEMENT clasificaciones (clasificación+)>
+
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT número (#PCDATA)>
+<!ELEMENT fecha (#PCDATA)>
+
+<!ELEMENT salida (#PCDATA)>
+<!ELEMENT meta (#PCDATA)>
+<!ELEMENT tipo (#PCDATA)>
+
+<!ELEMENT referencia (#PCDATA)>
+<!ELEMENT fotografía (#PCDATA)>
+<!ELEMENT vídeo (#PCDATA)>
+<!ELEMENT podcast (#PCDATA)>
+
+<!ELEMENT hito (identificación, tipoHito)>
+<!ELEMENT punto (identificación)>
+<!ELEMENT identificación (#PCDATA)>
+<!ELEMENT tipoHito (#PCDATA)>
+
+<!ELEMENT clasificación (título, primero, segundo, tercero)>
+<!ELEMENT título (#PCDATA)>
+<!ELEMENT primero (#PCDATA)>
+<!ELEMENT segundo (#PCDATA)>
+<!ELEMENT tercero (#PCDATA)>
+
+<!ATTLIST etapa longitud CDATA #REQUIRED>
+<!ATTLIST etapa tiempoGanador CDATA #REQUIRED>
+<!ATTLIST etapa velocidadMediaGanador CDATA #REQUIRED>
+<!ATTLIST etapa desnivel CDATA #REQUIRED>
+
+<!ATTLIST salida longitud CDATA #REQUIRED>
+<!ATTLIST salida latitud CDATA #REQUIRED>
+<!ATTLIST salida altitud CDATA #REQUIRED>
+
+<!ATTLIST meta longitud CDATA #REQUIRED>
+<!ATTLIST meta latitud CDATA #REQUIRED>
+<!ATTLIST meta altitud CDATA #REQUIRED>
+
+<!ATTLIST hito longitud CDATA #REQUIRED>
+<!ATTLIST hito latitud CDATA #REQUIRED>
+<!ATTLIST hito altitud CDATA #REQUIRED>
+<!ATTLIST hito distancia CDATA #REQUIRED>
+<!ATTLIST hito bonificación CDATA #REQUIRED>
+
+<!ATTLIST punto longitud CDATA #REQUIRED>
+<!ATTLIST punto latitud CDATA #REQUIRED>
+<!ATTLIST punto altitud CDATA #REQUIRED>
+<!ATTLIST punto distancia CDATA #REQUIRED>
+
+<!ATTLIST segundo tiempo CDATA #REQUIRED>
+<!ATTLIST tercero tiempo CDATA #REQUIRED>
