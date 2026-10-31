@@ -1,0 +1,131 @@
+<!DOCTYPE HTML>
+
+<html lang="es">
+<head>
+    <!-- Datos que describen el documento -->
+    <meta charset="UTF-8" />
+    <title>LaVuelta2026: Juegos</title>
+    <link rel="icon" href="multimedia/icono_web.ico" sizes="32x32" type="image/vnd.microsoft.icon" />
+
+    <meta name="author" content="Jimena Vázquez Suárez" />
+    <meta name="description" content="Documento juegos.html del proyecto LaVuelta2026" />
+   
+    <meta name ="viewport" content ="width=device-width, initial-scale=1.0" />
+
+    <!--Enlace a las hojas de estilo-->
+    <link rel="stylesheet" type="text/css" href="estilo/estilo.css" />
+    <link rel="stylesheet" type="text/css" href="estilo/layout.css" />
+</head>
+
+<body>
+   <!-- contenido de juegos.html  -->
+    <header>
+        <h1><a href="index.html">LaVuelta2026</a></h1>
+
+        <nav>
+            <a href="index.html">Inicio</a>
+            <a href="ciclista.html">Ciclista</a>
+            <a href="equipo.html">Equipo</a>
+            <a href="etapa.html">Etapa</a>
+            <a href="meteorologia.html">Meteorología</a>
+            <a href="clasificaciones.html">Clasificaciones</a>
+            <a href="juegos.html" aria-current="page">Juegos</a>
+            <a href="ayuda.html">Ayuda</a>
+        </nav>
+    </header>
+
+    <nav aria-label="migas">
+        <ol>
+            <li><a href="index.html">Inicio</a></li>
+            <li> >> </li>
+            <li>Juegos</li>
+        </ol>
+    </nav>
+    
+    <main>
+        <h2>Juegos</h2>
+
+        <h3>¿Conoces la etapa?</h3>
+        <p>A continuación se presentan 10 preguntas para poner a prueba tu conocimiento sobre una de las etapas de La Vuelta a España 2026.</p>
+        <form>
+            <fieldset>
+                <legend>Andorra la Vella - Andorra la Vella</legend>
+
+                <p> <label for="pregunta1">Número de la etapa:</label>  <input type="number" id="pregunta1" min="1" max="21" required /> </p>
+                <p> <label for="pregunta2">Fecha de la etapa:</label>   <input type="date" id="pregunta2" min="2026-08-22" max="2029-09-13" required /> </p>
+                <p> <label for="pregunta3">Salida:</label>              
+                    <select id="pregunta3" required>
+                        <option value="" disabled selected>Selecciona la correcta</option>
+                        <option value="Monaco">Mónaco</option>
+                        <option value="Andorra">Andorra la Vella</option>
+                        <option value="Alcossebre">Alcossebre</option>
+                        <option value="Puçol">Puçol</option>
+                        <option value="Villajoyosa">Villajoyosa</option>
+                        <option value="Alcaraz">Alcaraz</option>
+                    </select>
+                </p>
+                <p> <label for="pregunta4">Meta:</label>              
+                    <select id="pregunta4" required>
+                        <option value="" disabled selected>Selecciona la correcta</option>
+                        <option value="Monaco">Mónaco</option>
+                        <option value="Manosque">Manosque</option>
+                        <option value="Andorra">Andorra la Vella</option>
+                        <option value="Castelló">Castelló</option>
+                        <option value="Xeraco">Xeraco</option>
+                        <option value="Lorca">Lorca</option>
+                        <option value="Loja">Loja</option>
+                    </select>
+                </p>
+                <p>
+                    <label>Tipo de la etapa:</label>
+                    <input type="radio" id="llana" name="pregunta5" checked />Llana
+                    <input type="radio" id="media" name="pregunta5" />Media montaña
+                    <input type="radio" id="montana" name="pregunta5" />Montaña
+                    <input type="radio" id="contraInd" name="pregunta5" />Contrarreloj individual   
+                    <input type="radio" id="contaEq" name="pregunta5" />Contrarreloj por equipos          
+                </p>
+                <p>
+                    <label>Hitos presentes:</label>
+                    <input type="checkbox" id="puertoM" name="pregunta6" />Puerto de montaña
+                    <input type="checkbox" id="puertoE" name="pregunta6" />Puerto de categoría especial
+                    <input type="checkbox" id="sprintI" name="pregunta6" />Sprint intermedio
+                    <input type="checkbox" id="sprintB" name="pregunta6" />Sprint bonificado
+                    <input type="checkbox" id="noHitos" name="pregunta6" />Sin hitos
+                </p>
+                <p>
+                    <label>Dificultad de la etapa (del 1 al 10):</label>  <input type="range" id="pregunta7" min="1" max="10" value="1" step="1" list="tickmarks" />
+                    <datalist id="tickmarks">
+                        <option value="1"> </option>
+                        <option value="2"> </option>
+                        <option value="3"> </option>
+                        <option value="4"> </option>
+                        <option value="5"> </option>
+                        <option value="6"> </option>
+                        <option value="7"> </option>
+                        <option value="8"> </option>
+                        <option value="9"> </option>
+                        <option value="10"></option>
+                    </datalist>
+                </p>
+                <p> <label for="pregunta8">Longitud de la etapa:</label>                <input type="number" id="pregunta8" min="0" max="500" required /> km</p>
+                <p> <label for="pregunta9">Desnivel acumulado de la etapa:</label>  <input type="number" id="pregunta9" min="0" max="10000" required /> m</p>
+
+                <p> <label for="pregunta10">Describe de forma breve la etapa:</label> </p>
+                <p><textarea id="pregunta10" cols="75" rows="3"></textarea></p>
+
+                <p> <label for="usuario">Usuario que responde a las preguntas:</label> <input type="text" id="usuario" name="usuario" required /></p>
+                <p> <button type="submit">Enviar respuestas</button> </p>
+            </fieldset>
+        
+        </form>
+    </main>
+
+    <footer>
+        <p>Jimena Vázquez Suárez</p>
+        <address>
+            <a href="mailto:uo301668@uniovi.es">UO301668@uniovi.es</a>
+        </address>
+    </footer>
+    
+</body>
+</html>
